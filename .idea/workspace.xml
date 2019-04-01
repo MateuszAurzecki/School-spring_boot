@@ -2,47 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cba05f90-3d43-4d78-b1ce-b4f2ad2e8b0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/School_SpringBoot.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/controller/GradesController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Grades.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/repository/GradesRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/repository/StudentRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/service/GradesService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/service/StudentService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/resources/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/resources/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/AppTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/GradesControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/StudentControllerTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/service/GradesServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/service/StudentServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/data.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/b2bnetwork/App.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/b2bnetwork/controller/GradesController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/b2bnetwork/controller/StudentController.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/b2bnetwork/model/Grades.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/b2bnetwork/model/Student.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/b2bnetwork/repository/GradesRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/b2bnetwork/repository/StudentRepository.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/b2bnetwork/service/GradesService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/pl/b2bnetwork/service/StudentService.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/b2bnetwork/AppTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/b2bnetwork/controller/GradesControllerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/b2bnetwork/controller/StudentControllerTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/b2bnetwork/service/GradesServiceTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/pl/b2bnetwork/service/StudentServiceTest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/TestContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/GradesControllerTestContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/StudentControllerTestContext.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/delete.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/insertGrades.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/resources/insertStudents.sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Grades.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/b2bnetwork/model/Grades.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/b2bnetwork/model/Grades.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/pl/b2bnetwork/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/b2bnetwork/model/Student.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -53,12 +26,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Student.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-399">
-              <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
+            <state relative-caret-position="135">
+              <caret line="107" column="18" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#508#509#0" expanded="true" />
@@ -68,70 +41,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/b2bnetwork/repository/GradesRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" selection-start-line="11" selection-end-line="11" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/b2bnetwork/repository/StudentRepository.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="171">
-              <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/b2bnetwork/service/GradesService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="51" selection-start-line="51" selection-end-line="51" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/pl/b2bnetwork/service/StudentService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1269">
-              <caret line="13" selection-start-line="13" selection-end-line="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1352#1353#0" expanded="true" />
-                <element signature="e#1413#1414#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/main/java/resources/application.properties">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/GradesControllerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/TestContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+            <state relative-caret-position="153">
+              <caret line="9" selection-start-line="9" selection-end-line="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -140,19 +54,10 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/StudentControllerTest.java">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/GradesControllerTestContext.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-135">
-              <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/service/GradesServiceTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+            <state relative-caret-position="151">
+              <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -161,13 +66,70 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/service/StudentServiceTest.java">
+        <entry file="file://$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Grades.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1650">
-              <caret line="118" column="33" selection-start-line="118" selection-start-column="33" selection-end-line="118" selection-end-column="33" />
+            <state relative-caret-position="135">
+              <caret line="136" column="18" selection-start-line="136" selection-start-column="18" selection-end-line="136" selection-end-column="18" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/StudentControllerTestContext.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="306">
+              <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="187">
+              <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/insertStudents.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1143">
+              <caret line="149" column="134" selection-start-line="149" selection-start-column="134" selection-end-line="149" selection-end-column="134" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/insertGrades.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2533">
+              <caret line="149" column="143" selection-start-line="149" selection-start-column="143" selection-end-line="149" selection-end-column="143" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/resources/data.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="149" selection-end-column="134" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/resources/delete.sql">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="19" selection-start-column="19" selection-end-column="19" />
             </state>
           </provider>
         </entry>
@@ -178,8 +140,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="JUnit4 Test Class" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -189,22 +151,28 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/pom.xml" />
         <option value="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/App.java" />
         <option value="$PROJECT_DIR$/src/main/java/resources/application.properties" />
         <option value="$PROJECT_DIR$/src/main/java/resources/data.sql" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Student.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/repository/GradesRepository.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/controller/GradesController.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/service/GradesServiceTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/service/StudentService.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/service/GradesService.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/controller/StudentController.java" />
-        <option value="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Grades.java" />
         <option value="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/repository/StudentRepository.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/GradesControllerTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/service/StudentServiceTest.java" />
         <option value="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/StudentControllerTest.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/insertGrades.sql" />
+        <option value="$PROJECT_DIR$/src/test/resources/insertStudents.sql" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/TestContext.java" />
+        <option value="$PROJECT_DIR$/src/test/resources/delete.sql" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Grades.java" />
+        <option value="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Student.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/GradesControllerTestContext.java" />
+        <option value="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/StudentControllerTestContext.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
       </list>
     </option>
   </component>
@@ -220,10 +188,9 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="855" />
-    <option name="y" value="15" />
-    <option name="width" value="1085" />
-    <option name="height" value="1030" />
+    <option name="x" value="-10" />
+    <option name="width" value="1485" />
+    <option name="height" value="1040" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -270,42 +237,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="b2bnetwork" type="462c0819:PsiDirectoryNode" />
-              <item name="controller" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="School_SpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="School_SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="b2bnetwork" type="462c0819:PsiDirectoryNode" />
-              <item name="model" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="School_SpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="School_SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="b2bnetwork" type="462c0819:PsiDirectoryNode" />
-              <item name="repository" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="School_SpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="School_SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="b2bnetwork" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="School_SpringBoot" type="b2602c69:ProjectViewProjectNode" />
-              <item name="School_SpringBoot" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -343,9 +274,7 @@
               <item name="School_SpringBoot" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="b2bnetwork" type="462c0819:PsiDirectoryNode" />
-              <item name="service" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -356,10 +285,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553592347553" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554120063171" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../B2B" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../School_SpringBoot1" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -369,8 +298,14 @@
       <recent name="pl.b2bnetwork.service" />
       <recent name="pl.b2bnetwork.controller" />
     </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="pl.b2bnetwork" />
+    </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\mpatr\IdeaProjects\School_SpringBoot\src\test\java\pl\b2bnetwork\controller" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -385,7 +320,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.GradesControllerTest">
+  <component name="RunManager" selected="JUnit.All in taxes">
+    <configuration name="All in taxes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="taxes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="GradesControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="School_SpringBoot" />
       <extension name="coverage">
@@ -401,23 +344,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="GradesServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="School_SpringBoot" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="pl.b2bnetwork.service.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="pl.b2bnetwork.service" />
-      <option name="MAIN_CLASS_NAME" value="pl.b2bnetwork.service.GradesServiceTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="StudentControllerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="School_SpringBoot" />
+    <configuration name="GradesControllerTestContext" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="taxes" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="pl.b2bnetwork.controller.*" />
@@ -425,50 +353,48 @@
         </pattern>
       </extension>
       <option name="PACKAGE_NAME" value="pl.b2bnetwork.controller" />
-      <option name="MAIN_CLASS_NAME" value="pl.b2bnetwork.controller.StudentControllerTest" />
+      <option name="MAIN_CLASS_NAME" value="pl.b2bnetwork.controller.GradesControllerTestContext" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentServiceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="School_SpringBoot" />
+    <configuration name="StudentControllerTestContext" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="taxes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.b2bnetwork.service.*" />
+          <option name="PATTERN" value="pl.b2bnetwork.controller.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.b2bnetwork.service" />
-      <option name="MAIN_CLASS_NAME" value="pl.b2bnetwork.service.StudentServiceTest" />
+      <option name="PACKAGE_NAME" value="pl.b2bnetwork.controller" />
+      <option name="MAIN_CLASS_NAME" value="pl.b2bnetwork.controller.StudentControllerTestContext" />
       <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StudentServiceTest.findByLastName" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="School_SpringBoot" />
+    <configuration name="pl.b2bnetwork in taxes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="taxes" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="pl.b2bnetwork.service.*" />
+          <option name="PATTERN" value="pl.b2bnetwork.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="pl.b2bnetwork.service" />
-      <option name="MAIN_CLASS_NAME" value="pl.b2bnetwork.service.StudentServiceTest" />
-      <option name="METHOD_NAME" value="findByLastName" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="pl.b2bnetwork" />
+      <option name="TEST_OBJECT" value="package" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.All in taxes" />
+        <item itemvalue="JUnit.GradesControllerTestContext" />
+        <item itemvalue="JUnit.StudentControllerTestContext" />
+        <item itemvalue="JUnit.pl.b2bnetwork in taxes" />
         <item itemvalue="JUnit.GradesControllerTest" />
-        <item itemvalue="JUnit.StudentControllerTest" />
-        <item itemvalue="JUnit.GradesServiceTest" />
-        <item itemvalue="JUnit.StudentServiceTest" />
-        <item itemvalue="JUnit.StudentServiceTest.findByLastName" />
       </list>
     </recent_temporary>
   </component>
@@ -489,74 +415,73 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="AppTest - 2019.03.26 at 09h 56m 52s.xml">
-      <configuration name="AppTest" configurationId="JUnit" />
+    <history-entry file="GradesControllerTestContext - 2019.04.01 at 10h 43m 37s.xml">
+      <configuration name="GradesControllerTestContext" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentControllerTest_findByLastName - 2019.03.26 at 10h 14m 17s.xml">
-      <configuration name="StudentControllerTest.findByLastName" configurationId="JUnit" />
+    <history-entry file="GradesControllerTestContext - 2019.04.01 at 10h 44m 33s.xml">
+      <configuration name="GradesControllerTestContext" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentControllerTest_findByLastName - 2019.03.26 at 10h 14m 44s.xml">
-      <configuration name="StudentControllerTest.findByLastName" configurationId="JUnit" />
+    <history-entry file="GradesControllerTestContext - 2019.04.01 at 10h 45m 19s.xml">
+      <configuration name="GradesControllerTestContext" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentServiceTest_findByLastName - 2019.03.26 at 10h 16m 29s.xml">
-      <configuration name="StudentServiceTest.findByLastName" configurationId="JUnit" />
+    <history-entry file="GradesControllerTestContext - 2019.04.01 at 10h 46m 07s.xml">
+      <configuration name="GradesControllerTestContext" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentServiceTest - 2019.03.26 at 10h 17m 14s.xml">
-      <configuration name="StudentServiceTest" configurationId="JUnit" />
+    <history-entry file="GradesControllerTestContext - 2019.04.01 at 10h 46m 43s.xml">
+      <configuration name="GradesControllerTestContext" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentControllerTest - 2019.03.26 at 10h 17m 28s.xml">
-      <configuration name="StudentControllerTest" configurationId="JUnit" />
+    <history-entry file="StudentControllerTestContext - 2019.04.01 at 10h 47m 45s.xml">
+      <configuration name="StudentControllerTestContext" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentControllerTest - 2019.03.26 at 10h 22m 03s.xml">
-      <configuration name="StudentControllerTest" configurationId="JUnit" />
+    <history-entry file="StudentControllerTestContext - 2019.04.01 at 10h 52m 47s.xml">
+      <configuration name="StudentControllerTestContext" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentServiceTest - 2019.03.26 at 10h 25m 31s.xml">
-      <configuration name="StudentServiceTest" configurationId="JUnit" />
+    <history-entry file="StudentControllerTestContext - 2019.04.01 at 10h 53m 35s.xml">
+      <configuration name="StudentControllerTestContext" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="GradesServiceTest - 2019.03.26 at 10h 25m 40s.xml">
-      <configuration name="GradesServiceTest" configurationId="JUnit" />
+    <history-entry file="GradesControllerTestContext - 2019.04.01 at 10h 53m 58s.xml">
+      <configuration name="GradesControllerTestContext" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="StudentControllerTest - 2019.03.26 at 10h 25m 55s.xml">
-      <configuration name="StudentControllerTest" configurationId="JUnit" />
+    <history-entry file="All_in_taxes - 2019.04.01 at 10h 55m 49s.xml">
+      <configuration name="All in taxes" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Designer" />
-      <window_info id="Image Layers" />
-      <window_info id="DB Browser" weight="0.3295302" />
-      <window_info id="UI Designer" />
-      <window_info id="Project Explorer" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Capture Tool" />
-      <window_info id="Job Explorer" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20067114" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.23758389" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="DB Execution Console" />
-      <window_info anchor="bottom" id="Terminal" weight="0.3286119" />
-      <window_info anchor="bottom" id="Event Log" sideWeight="0.50067115" side_tool="true" weight="0.38668555" />
-      <window_info anchor="bottom" id="SQL" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Messages" weight="0.3286119" />
-      <window_info anchor="bottom" id="Console" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="DB Browser" order="4" weight="0.3295302" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Project Explorer" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info id="Capture Tool" order="8" />
+      <window_info id="Job Explorer" order="9" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" visible="true" weight="0.3569405" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49932885" weight="0.3569405" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Maven" weight="0.17315437" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Key Promoter X" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="bottom" id="DB Execution Console" order="7" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="8" visible="true" weight="0.32152975" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.50067115" side_tool="true" weight="0.38668555" />
+      <window_info anchor="bottom" id="SQL" order="10" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.3286119" />
+      <window_info anchor="bottom" id="Console" order="12" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="3" weight="0.17315437" />
+      <window_info anchor="right" id="Palette" order="4" />
+      <window_info anchor="right" id="Capture Analysis" order="5" />
+      <window_info anchor="right" id="Key Promoter X" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Theme Preview" order="8" />
     </layout>
     <layout-to-restore>
       <window_info id="Designer" order="0" />
@@ -594,21 +519,10 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
     </layout-to-restore>
   </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.sql" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/AppTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="16" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/b2bnetwork/App.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
@@ -617,13 +531,6 @@
             <element signature="imports" expanded="true" />
             <element signature="e#308#309#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/resources/data.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1815">
-          <caret line="121" column="110" selection-start-line="121" selection-start-column="103" selection-end-line="121" selection-end-column="110" />
         </state>
       </provider>
     </entry>
@@ -651,31 +558,9 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Grades.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="24" column="4" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Student.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-399">
-          <caret line="27" column="5" selection-start-line="27" selection-start-column="5" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#508#509#0" expanded="true" />
-            <element signature="e#533#534#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/b2bnetwork/repository/GradesRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
+        <state relative-caret-position="119">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -685,7 +570,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/b2bnetwork/repository/StudentRepository.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
+        <state relative-caret-position="136">
           <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -695,7 +580,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/b2bnetwork/service/GradesService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
+        <state relative-caret-position="663">
           <caret line="51" selection-start-line="51" selection-end-line="51" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -705,7 +590,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/pl/b2bnetwork/service/StudentService.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1269">
+        <state relative-caret-position="102">
           <caret line="13" selection-start-line="13" selection-end-line="13" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -717,25 +602,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/resources/application.properties">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
+        <state relative-caret-position="85">
           <caret line="5" column="59" selection-start-line="5" selection-start-column="59" selection-end-line="5" selection-end-column="59" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/service/StudentServiceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/service/GradesServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1650">
-          <caret line="118" column="33" selection-start-line="118" selection-start-column="33" selection-end-line="118" selection-end-column="33" />
+        <state relative-caret-position="85">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/service/GradesServiceTest.java">
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/service/StudentServiceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        <state relative-caret-position="1683">
+          <caret line="118" column="33" selection-start-line="118" selection-start-column="33" selection-end-line="118" selection-end-column="33" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
@@ -744,15 +629,112 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/StudentControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-135">
-          <caret line="15" column="35" selection-start-line="15" selection-start-column="35" selection-end-line="15" selection-end-column="35" />
+        <state relative-caret-position="323">
+          <caret line="26" column="13" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/AppTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/GradesControllerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="36" column="28" lean-forward="true" selection-start-line="36" selection-start-column="28" selection-end-line="36" selection-end-column="28" />
+        <state relative-caret-position="-988">
+          <caret line="28" column="13" selection-start-line="28" selection-start-column="13" selection-end-line="28" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/insertGrades.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2533">
+          <caret line="149" column="143" selection-start-line="149" selection-start-column="143" selection-end-line="149" selection-end-column="143" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/resources/data.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="149" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/insertStudents.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1143">
+          <caret line="149" column="134" selection-start-line="149" selection-start-column="134" selection-end-line="149" selection-end-column="134" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/resources/delete.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="19" selection-start-column="19" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Grades.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="136" column="18" selection-start-line="136" selection-start-column="18" selection-end-line="136" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="107" column="18" selection-start-line="107" selection-start-column="18" selection-end-line="107" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#508#509#0" expanded="true" />
+            <element signature="e#533#534#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/GradesControllerTestContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="151">
+          <caret line="58" column="5" selection-start-line="58" selection-start-column="5" selection-end-line="58" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/StudentControllerTestContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="27" column="45" selection-start-line="27" selection-start-column="45" selection-end-line="27" selection-end-column="45" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/pl/b2bnetwork/TestContext.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

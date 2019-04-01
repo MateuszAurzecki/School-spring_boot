@@ -103,4 +103,18 @@ public class Student implements Serializable {
 
         return result;
     }
+
+    @Override
+    public String toString() {
+        return "Student{" +
+                "id=" + id +
+                ", firstName='" + firstName + '\'' +
+                ", lastName='" + lastName + '\'' +
+                ", gender='" + gender + '\'' +
+                ", age=" + age +
+                ", attendance=" + attendance +
+                ", classid='" + classid + '\'' +
+                ", grades=" + grades +
+                '}';
+    }
 }

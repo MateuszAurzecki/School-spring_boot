@@ -132,4 +132,22 @@ public class Grades implements Serializable {
                 + grades.getGeography() + grades.getSport());
         return average / 11;
     }
+
+    @Override
+    public String toString() {
+        return "Grades{" +
+                "id=" + id +
+                ", history=" + history +
+                ", math=" + math +
+                ", physics=" + physics +
+                ", english=" + english +
+                ", biology=" + biology +
+                ", chemistry=" + chemistry +
+                ", polish=" + polish +
+                ", IT=" + IT +
+                ", german=" + german +
+                ", geography=" + geography +
+                ", sport=" + sport +
+                '}';
+    }
 }
