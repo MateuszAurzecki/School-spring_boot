@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cba05f90-3d43-4d78-b1ce-b4f2ad2e8b0e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/TestContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/GradesControllerTestContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/pl/b2bnetwork/controller/StudentControllerTestContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/delete.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/insertGrades.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/insertStudents.sql" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Grades.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Grades.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/b2bnetwork/model/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/data.sql" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/b2bnetwork/model/Grades.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/b2bnetwork/model/Grades.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/pl/b2bnetwork/model/Student.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/pl/b2bnetwork/model/Student.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -285,7 +272,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554120063171" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1554120452089" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit4" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../School_SpringBoot1" />
